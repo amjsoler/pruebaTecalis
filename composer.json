@@ -1,0 +1,16 @@
+{
+    "name": "amjso/prueba-tecalis",
+    "description": "Prueba Tecalis",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Amjso\\PruebaTecalis\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jorge Amat"
+        }
+    ],
+    "require": {}
+}
